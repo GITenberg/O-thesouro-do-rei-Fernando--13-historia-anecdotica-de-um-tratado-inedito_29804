@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Luciano_Cordeiro
     - http://pt.wikipedia.org/wiki/Luciano_Cordeiro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29804#O-thesouro-do-rei-Fernando--13-historia-anecdotica-de-um-tratado-inedito
 gutenberg_issued: '2009-08-26'
 gutenberg_type: Text
 identifiers:
