@@ -1,0 +1,32 @@
+_repo: O-thesouro-do-rei-Fernando--13-historia-anecdotica-de-um-tratado-inedito_29804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cordeiro, Luciano
+    alias: Sousa, Luciano Batista Cordeiro de
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '26771'
+    url: http://www.gutenberg.org/2009/agents/26771
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Luciano_Cordeiro
+    - http://pt.wikipedia.org/wiki/Luciano_Cordeiro
+description: ''
+gutenberg_issued: '2009-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29804'
+  lccn: ltf90021338
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- History -- To 1385'
+- !lcc 'DP'
+- !lcsh 'Fernando I, King of Portugal, 1345-1383'
+title: "O thesouro do rei Fernando\r\nhistoria anecdotica de um tratado inedito"
+url: http://www.gutenberg.org/ebooks/29804
